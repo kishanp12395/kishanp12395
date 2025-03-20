@@ -1,7 +1,18 @@
 
-# 👋 Hi there, I'm **Kishan Kumar Prajapati**
+<h1 align="center">Hi there, I'm <span style="color:#6C63FF;">Kishan Kumar Prajapati</span> 👋</h1>
 
-🚀 **Aspiring MERN Stack Developer** | 🌐 **Web Development Enthusiast** | 🎥 **JavaScript Content Creator**
+<p align="center">
+🚀 Aspiring <strong>MERN Stack Developer</strong> | 🌐 Passionate <strong>Web Developer</strong> | 🎥 <strong>JavaScript Content Creator</strong>
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:kishanp12395@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kishanp12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/kishanp12395"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.youtube.com/@Skill_Booster"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
 ---
 
@@ -16,7 +27,11 @@
 - **Frontend:** HTML5 | CSS3 | JavaScript | React.js | Tailwind CSS | Bootstrap
 - **Backend:** Node.js | Express.js | MongoDB | REST API
 - **Tools & Deployment:** Git | GitHub | Vercel | Render | Netlify | Cloudinary | Postman | VS Code
-- **Learning:** Redux Toolkit | TypeScript | JWT | OAuth | Advanced DSA
+- **Learning:** Redux Toolkit | TypeScript | JWT | OAuth | Nodemailer
+
+  <div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,vscode,postman,vercel,netlify" />
+</div>
 
 ---
 
@@ -69,3 +84,14 @@
 ---
 
 ⭐ **Thank you for visiting my profile!** ⭐
+
+---
+
+<p align="center">
+  <a href="mailto:kishanp12395@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kishanp12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/kishanp12395"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.youtube.com/@Skill_Booster"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
+
+
